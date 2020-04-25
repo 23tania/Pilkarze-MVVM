@@ -1,6 +1,0 @@
-Hadam|Piotr|23|65
-Krawczyk|Krzysztof|55|75
-Torres|Fernando|40|63
-Del Rio|Bianca|45|55
-Cieślar|Tatiana|20|55
-Jakis tam|Pilkarz|5|10
